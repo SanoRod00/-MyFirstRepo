@@ -1,0 +1,25 @@
+                                                          My Personal and Academic Goals for Next Year
+
+My Personal and Academic Goals for Next Year
+
+>Complete a Hands-On Data Science Project
+Apply machine learning techniques to a real-world dataset (e.g., agriculture or unemployment data) and publish the results on Kaggle or GitHub.
+
+>Advance My Skills in Rust Programming
+Learn Rust deeply by completing at least two full projects, including a basic smart contract and a systems-level application.
+
+>Develop and Launch an AI-Powered Mobile App
+Build a functional productivity or agricultural assistant app using Flutter and integrate AI features to support smallholder farmers or job seekers.
+
+>Secure an Internship in Tech or Data Science
+Gain real-world industry experience through an internship, ideally aligned with my interests in AI, web development, or smart contracts.
+
+>Contribute to an Open-Source Project
+Collaborate with a global development community and contribute to at least one open-source project related to data science or decentralized technologies.
+
+>Improve My Academic Writing and Research Skills
+Strengthen my ability to write structured project reports, conduct thorough literature reviews, and apply frameworks like PESTLE and empathy maps with clarity.
+
+>Get Accepted into a University or Specialized Program
+Complete all requirements for admission to ALU or another institution, including submitting proof of English proficiency and securing financial support.
+
